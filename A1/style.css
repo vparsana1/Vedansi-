@@ -1,0 +1,157 @@
+body {
+  font-family: verdana;
+  padding: 10px;
+  background-image: url("Image0.jpg");
+  height: 500%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+ color: Purple;
+ font-weight: lighter;
+}
+
+
+h2{
+  color: Red;
+  font-weight: bold;
+}
+
+h3{
+  text-decoration: underline;
+}
+
+.header {
+  padding: 40px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 30px;
+}
+
+.topnav a {
+  float: right;
+  float: center;
+  color: darkblack;
+  text-align: center;
+  text-decoration: underline;
+  padding: 14px 16px;
+}
+
+.topnav a:hover {
+  color: red;
+}
+
+.leftcolumn {
+  float: left;
+  width: 50%;
+
+}
+
+
+.Image {
+  float: right;
+  width: 50%;
+
+}
+
+.leftrow {
+  float: left;
+  width: 50%;
+}
+
+.rightrow {
+  float: right;
+  width: 50%;
+}
+
+.table {
+  float: inherit;
+  width: 100%;
+  text-align: center;
+  border: 1px solid black;
+}
+th {
+  height: 1em;
+  text-align: center;
+  border: 1px solid black;
+}
+
+td {
+  height:1em;
+  text-align: center;
+  border: 1px solid black;
+}
+
+tr:hover {background-color: #f5f5f5;}
+
+tr:nth-child(1)
+{
+  background-color: lightgreen;
+  color:black;
+}
+tr:nth-child(2)
+{
+  background-color: lightpink;
+  color:black;
+}
+tr:nth-child(3)
+{
+  background-color: lightblue;
+  color:black;
+}
+tr:nth-child(4)
+{
+  background-color: yellow;
+  color:black;
+}
+tr:nth-child(5)
+{
+  background-color: salmon;
+  color:black;
+}
+tr:nth-child(6)
+{
+  background-color: white;
+  color:black;
+}
+tr:nth-child(7)
+{
+  background-color: gold;
+  color:black;
+}
+tr:nth-child(8)
+{
+  background-color: silver;
+  color:black;
+}
+tr:nth-child(9)
+{
+  background-color: lightgray;
+  color:black;
+}
+
+.bottom a{
+  float: left;
+  display: grid;
+  color: blue;
+  text-align: center;
+  padding: 14px 16px;
+
+}
+
+.bottom a:hover {
+  background-color: lightyellow;
+  color: green;
+}
+
+.header p
+{
+    float: center;
+
+
+    }
+  }
